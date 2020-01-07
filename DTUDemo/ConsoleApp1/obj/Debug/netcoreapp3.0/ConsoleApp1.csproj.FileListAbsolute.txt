@@ -1,0 +1,14 @@
+G:\demo\DTUDemo\DTUDemo\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+G:\demo\DTUDemo\DTUDemo\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+G:\demo\DTUDemo\DTUDemo\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+G:\demo\DTUDemo\DTUDemo\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+G:\demo\DTUDemo\DTUDemo\ConsoleApp1\bin\Debug\netcoreapp3.0\NLog.dll
+G:\demo\DTUDemo\DTUDemo\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csproj.CopyComplete
+G:\demo\DTUDemo\DTUDemo\ConsoleApp1\bin\Debug\netcoreapp3.0\NLog.config
+G:\demo\DTUDemo\DTUDemo\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+G:\demo\DTUDemo\DTUDemo\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+G:\demo\DTUDemo\DTUDemo\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+G:\demo\DTUDemo\DTUDemo\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+G:\demo\DTUDemo\DTUDemo\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+G:\demo\DTUDemo\DTUDemo\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+G:\demo\DTUDemo\DTUDemo\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb

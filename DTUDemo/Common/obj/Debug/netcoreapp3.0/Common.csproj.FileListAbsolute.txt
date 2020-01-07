@@ -1,0 +1,9 @@
+G:\demo\DTUDemo\DTUDemo\Common\bin\Debug\netcoreapp3.0\Common.deps.json
+G:\demo\DTUDemo\DTUDemo\Common\bin\Debug\netcoreapp3.0\Common.dll
+G:\demo\DTUDemo\DTUDemo\Common\obj\Debug\netcoreapp3.0\Common.AssemblyInfoInputs.cache
+G:\demo\DTUDemo\DTUDemo\Common\obj\Debug\netcoreapp3.0\Common.AssemblyInfo.cs
+G:\demo\DTUDemo\DTUDemo\Common\bin\Debug\netcoreapp3.0\NLog.config
+G:\demo\DTUDemo\DTUDemo\Common\bin\Debug\netcoreapp3.0\Common.pdb
+G:\demo\DTUDemo\DTUDemo\Common\obj\Debug\netcoreapp3.0\Common.dll
+G:\demo\DTUDemo\DTUDemo\Common\obj\Debug\netcoreapp3.0\Common.pdb
+G:\demo\DTUDemo\DTUDemo\Common\obj\Debug\netcoreapp3.0\Common.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+G:\demo\DTUDemo\DTUDemo\DTULib\bin\Debug\netcoreapp3.0\DTULib.deps.json
+G:\demo\DTUDemo\DTUDemo\DTULib\bin\Debug\netcoreapp3.0\DTULib.dll
+G:\demo\DTUDemo\DTUDemo\DTULib\obj\Debug\netcoreapp3.0\DTULib.csprojAssemblyReference.cache
+G:\demo\DTUDemo\DTUDemo\DTULib\obj\Debug\netcoreapp3.0\DTULib.AssemblyInfoInputs.cache
+G:\demo\DTUDemo\DTUDemo\DTULib\obj\Debug\netcoreapp3.0\DTULib.AssemblyInfo.cs
+G:\demo\DTUDemo\DTUDemo\DTULib\bin\Debug\netcoreapp3.0\NLog.config
+G:\demo\DTUDemo\DTUDemo\DTULib\bin\Debug\netcoreapp3.0\DTULib.pdb
+G:\demo\DTUDemo\DTUDemo\DTULib\bin\Debug\netcoreapp3.0\Common.dll
+G:\demo\DTUDemo\DTUDemo\DTULib\bin\Debug\netcoreapp3.0\Common.pdb
+G:\demo\DTUDemo\DTUDemo\DTULib\obj\Debug\netcoreapp3.0\DTULib.csproj.CopyComplete
+G:\demo\DTUDemo\DTUDemo\DTULib\obj\Debug\netcoreapp3.0\DTULib.dll
+G:\demo\DTUDemo\DTUDemo\DTULib\obj\Debug\netcoreapp3.0\DTULib.pdb

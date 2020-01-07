@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\demo\\DTUDemo\\DTUDemo\\DTULib\\DTULib.csproj": {}
+  },
+  "projects": {
+    "G:\\demo\\DTUDemo\\DTUDemo\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\demo\\DTUDemo\\DTUDemo\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "G:\\demo\\DTUDemo\\DTUDemo\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\xiaozhen\\.nuget\\packages\\",
+        "outputPath": "G:\\demo\\DTUDemo\\DTUDemo\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\xiaozhen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[4.6.8, )"
+            },
+            "NLog.Config": {
+              "target": "Package",
+              "version": "[4.6.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\demo\\DTUDemo\\DTUDemo\\DTULib\\DTULib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\demo\\DTUDemo\\DTUDemo\\DTULib\\DTULib.csproj",
+        "projectName": "DTULib",
+        "projectPath": "G:\\demo\\DTUDemo\\DTUDemo\\DTULib\\DTULib.csproj",
+        "packagesPath": "C:\\Users\\xiaozhen\\.nuget\\packages\\",
+        "outputPath": "G:\\demo\\DTUDemo\\DTUDemo\\DTULib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\xiaozhen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "G:\\demo\\DTUDemo\\DTUDemo\\Common\\Common.csproj": {
+                "projectPath": "G:\\demo\\DTUDemo\\DTUDemo\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "DotNetty.Handlers": {
+              "target": "Package",
+              "version": "[0.6.0, )"
+            },
+            "DotNetty.Transport": {
+              "target": "Package",
+              "version": "[0.6.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
